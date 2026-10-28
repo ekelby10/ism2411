@@ -2,6 +2,7 @@
 # ISM2411 — Python for Business
 
 **Name:** Ethan Kelby
+
 **Semester:** Fall 2026
 
 **Instructor:** [Dr. Reed]
