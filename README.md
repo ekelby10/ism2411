@@ -5,7 +5,7 @@
 
 **Semester:** Fall 2026
 
-**Instructor:** [Dr. Reed]
+**Instructor:** Dr. Reed
 
 ## About This Repo
 
