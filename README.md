@@ -26,25 +26,25 @@ Each script is standalone. Open a terminal and run:
 python week07/functions.py
 ```
 ## Reflection
-3
+
  
-4
+
 ### 1. Git Log and What It Shows
-5
+
  
-6
+
 ```text
-7
+
 4b6d2c0 add .gitignore for Python and OS files
-8
+
 ba5ff0e add module 7 functions: calculate_tax, apply_discount, final_price
-9
+
 10eb2fe Remove brackets from instructor name
-10
+
 78a61cf Add name and semester to README
-11
+
 81e3e19 Update README with course and module information
-12
+
 ```
 
  
